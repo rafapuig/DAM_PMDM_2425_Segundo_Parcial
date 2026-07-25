@@ -28,7 +28,7 @@
 
         <activity
             android:name=".trending.tvshows.ui.views.TrendingTvShowsActivity"
-            android:exported="false" />
+            android:exported="true" />
 
         <activity
             android:name=".movies.ui.NowPlayingMoviesDirectlyFromApiActivity"
