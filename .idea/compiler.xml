@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="PMDM_2024_Segundo_Cuatrimestre.bmi" target="21" />
+      <module name="PMDM_2024_Segundo_Cuatrimestre.booksroomdemo" target="21" />
+      <module name="PMDM_2024_Segundo_Cuatrimestre.cancelingcoroutines" target="21" />
+      <module name="PMDM_2024_Segundo_Cuatrimestre.coroutinedemo" target="21" />
+      <module name="PMDM_2024_Segundo_Cuatrimestre.movieapp" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

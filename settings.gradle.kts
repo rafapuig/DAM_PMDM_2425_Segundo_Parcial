@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PMDM_2024_Segundo_Cuatrimestre"
+rootProject.name = "PMDM_2425_Segundo_Parcial"
 include(":coroutinedemo")
 include(":bmi")
 include(":booksroomdemo")
